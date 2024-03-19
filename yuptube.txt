@@ -1,0 +1,68 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id> | <tvg-chno>
+
+Aaj Tak | News | https://i.imgur.com/mrgP9oA.png | AajTak.in | 101
+https://www.youtube.com/watch?v=Nq2wYlWFucg
+
+ABP News | News | https://i.imgur.com/xrG0Luq.png | ABPNews.in | 102
+https://www.youtube.com/watch?v=nyd-xznCpJc
+
+DD News HD | News | https://i.imgur.com/sZh1vc5.png | DDNewsHD.in | 103
+https://www.youtube.com/@DDnews/live
+
+India TV | News | https://i.imgur.com/cOpRtkn.png | IndiaTV.in | 104
+https://www.youtube.com/watch?v=Xmm3Kr5P1Uw
+
+NDTV India | News | https://i.imgur.com/hWfl0GO.png | NDTVIndia.in | 105
+https://www.youtube.com/watch?v=MN8p-Vrn6G0
+
+News18 India | News | https://i.imgur.com/JCS5mKf.png | News18India.in | 106
+https://www.youtube.com/watch?v=HBorWH77wPs
+
+R Bharat| News | https://i.imgur.com/xAjUAPX.png | RBharat.in | 107
+https://www.youtube.com/live/qfrocHBy6RQ
+
+Times Now Navbharat HD | News | https://i.imgur.com/JU1fsyk.png | TimesNowNavbharatHD.in | 108
+https://www.youtube.com/live/jQJHKXJEq0A
+
+Zee News | News | https://i.imgur.com/haja38m.png | ZeeNews.in | 109
+https://www.youtube.com/watch?v=TPcmrPrygDc
+
+Bharat 24 | News | https://i.imgur.com/K90Vunf.png | Bharat24.in | 111
+https://www.youtube.com/live/v83f2eb3ZGo
+
+TV9 Bharatvarsh | News | https://i.imgur.com/NPX8FFh.png | TV9Bharatvarsh.in | 112
+https://www.youtube.com/watch?v=nSpwwcHVp80
+
+CNBC Awaaz | News | https://i.imgur.com/m28zRj9.png | CNBCAwaaz.in | 121
+https://www.youtube.com/watch?v=TD0A7fHAxKw
+
+ET Now Swadesh | News | https://i.imgur.com/Q3eRbAG.png | ETNowSwadesh.in | 122
+https://www.youtube.com/watch?v=lXHQaU93Mu4
+
+Zee Business | News | https://i.imgur.com/KUTUwf8.png | ZeeBusiness.in | 123
+https://www.youtube.com/@ZeeBusiness/live
+
+News18 UP UK | News | https://i.imgur.com/ttdUGGG.png | News18UttarPradeshUttarakhand.in | 131
+https://www.youtube.com/watch?v=osTlRs49-Uk
+
+Zee UP UK | News |  https://i.imgur.com/Bp1z67y.png |  ZeeUttarPradeshUttarakhand.in | 132
+https://www.youtube.com/live/RqRFw-2X2kM
+
+ABP Ganga | News | https://i.imgur.com/2FgUkSR.png | ABPGanga.in | 133
+https://www.youtube.com/live/iMvG7GbqOu4
+
+Sansad TV HD | News | https://i.imgur.com/gbwiREQ.png | SansadTVHD.in | 140
+https://www.youtube.com/live/eWmq2UtUXf0
+
+DD India | News | https://i.imgur.com/EIbNMzt.png | DDIndia.in | 141
+https://www.youtube.com/watch?v=c0HOSjlniKs
+
+India Today | News | https://i.imgur.com/jEYBYHY.png | INDIATODAY.in | 142
+https://www.youtube.com/watch?v=sYZtOFzM78M
+
+REPUBLIC TV | News | https://i.imgur.com/8wFpxjY.png | REPUBLICTV.in | 143
+https://www.youtube.com/live/Lu5G_yDpv18
+
+WION | News | https://i.imgur.com/wHbvhbA.png | WION.in | 144
+https://www.youtube.com/live/gadjsB5BkK4
